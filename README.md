@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##Soy **_Pedro_**😅.
+## Soy Pedro😅.
 
 Me gusta la **_programación_** y me gustaría llegar a participar en proyectos **_open source_**.
 
-###Otros hobbies:
+### Otros hobbies:
 * Idiomas
 * Leer 📖
 * Ajedrez ♟️
