@@ -1,4 +1,4 @@
-## Holaaa 👋
+## Holaaa 👋, me llamo Pedro 😅
 
 <!--
 **PetF47/PetF47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Soy Pedro😅.
 
 Me gusta la **_programación_** y me gustaría llegar a participar en proyectos **_open source_**.
 
