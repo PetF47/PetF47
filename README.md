@@ -1,4 +1,4 @@
-## Holaaa 👋, me llamo Pedro 😅
+## Holaaa 👋, me llamo Pedro
 
 <!--
 **PetF47/PetF47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
